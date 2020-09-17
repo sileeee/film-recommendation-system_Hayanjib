@@ -5,7 +5,7 @@
 
 * 해당 프로젝트에서는 Collaborative Filtering중 item based를 사용
 
-####Collaborative Filtering - item based
+###Collaborative Filtering - item based
 ![2020-09-17 182846](https://user-images.githubusercontent.com/31584255/93453000-10847600-f914-11ea-929d-235384eb0fd6.png)
 
 * 사용한 데이터 
