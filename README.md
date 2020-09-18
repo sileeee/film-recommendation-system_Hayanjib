@@ -15,3 +15,6 @@
   movies.csv
   ratings.csv
 ```
+
+### Cosine Similarity
+![2020-09-18 230316](https://user-images.githubusercontent.com/31584255/93606622-46545800-fa03-11ea-86d4-c33e6c77bc2b.png)
